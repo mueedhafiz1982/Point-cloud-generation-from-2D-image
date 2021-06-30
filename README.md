@@ -3,6 +3,10 @@
 Python implementation of our upcoming paper on point cloud generation from 2D image technique:
 ----------------------------------------------------------------------------------------------
 
+arXiv Paper:
+
+arXiv:2106.15325v1 [cs.CV]
+
 Title:
 
 "SE-MD: A Single-encoder multiple-decoder deep network for point cloud generation from 2D images"
